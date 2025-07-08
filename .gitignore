@@ -1,0 +1,22 @@
+# 👉 Ignore les fichiers Terraform générés
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# 👉 Ignore les archives de déploiement Lambda
+lambda_function.zip
+
+# 👉 Ignore les clés SSH privées (très important !)
+my-key
+my-key.pub
+*.pem
+*.key
+
+# 👉 Ignore les fichiers temporaires
+*.log
+*.tmp
+
+# 👉 Ignore les fichiers système
+.DS_Store
+Thumbs.db
