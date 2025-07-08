@@ -114,5 +114,5 @@ Check the file in your S3 bucket created by Terraform.
 
 🧠 Author
 Skander Houidi
-DevOps | Cloud enthusiast | Infrastructure as Code
+
 
